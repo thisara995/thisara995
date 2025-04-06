@@ -1,6 +1,20 @@
 # 💫 About Me:
 Hi, I'm Thisara Premathilaka, a web developer passionate about PHP, Laravel, CodeIgniter, WordPress, Joomla. 🚀
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🎓 I’m followed HNDIT in SLIATE ATI-Kurunegala <a href="http://kurunegala.sliate.ac.lk/" target="blank">SLIATE ATI-Kurunegala</a>
+
+- 🤝 I’m available for freelancing.
+
+- 👩‍💻 My Portfolio Web site **https://thisara995.github.io/Thisara-Premathilaka/**
+
+- 📫 How to reach me **thisarachamath99@gmail.com**
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1M5FXO9-OBhlsasBnHKjBDg8mtwJWm-1A/view?usp=sharing" target="blank">Resume</a>
+<br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BJirMc4tx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thisarapremathilaka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thisarachamath99@gmail.com) 
